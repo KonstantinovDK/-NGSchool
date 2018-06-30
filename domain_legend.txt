@@ -1,0 +1,108 @@
+PF00046.28	  Homeobox
+PF01852.18	  StAR-related transfer domain
+PF11934.7	  Domain of unknown function (DUF3452)
+PF01858.16	  Retinoblastoma-associated protein A domain
+PF01857.19	  Retinoblastoma-associated protein B domain
+PF00036.31	  EF hand1
+PF13202.5	  EF hand2
+PF13405.5	  EF hand3
+PF13499.5	  EF hand4
+PF13833.5	  EF hand5
+PF14658.5	  EF hand6
+PF12763.6	  Cytoskeletal-regulatory complex EF hand
+PF05042.12	  Caleosin related protein
+PF10591.8	  Secreted protein acidic and rich in cysteine Ca binding region
+PF08355.11	  EF hand associated1
+PF08356.11	  EF hand associated2
+PF01926.22	  50S ribosome-binding GTPase
+PF00071.21	  Ras subfamily
+PF08477.12	  Ras of Complex, Roc, domain of DAPkinase
+PF00350.22	  Dynamin
+PF00646.32	  F-box protein
+PF13191.5	  AAA proteins 1
+PF13401.5	  AAA proteins 2
+PF00025.20	  ADP ribosylation factor
+PF00004.28	  AAA proteins 3
+PF09439.9	  Signal recognition particle receptor beta subunit
+PF13555.5	  AAA proteins 4
+PF02403.21	  Seryl-tRNA synthetase N-terminal domain 
+PF02458.14	  Transferase family
+PF00168.29	  C2 domain
+PF13837.5	  Myb/SANT-like DNA-binding domain
+PF13921.5	  Myb-like DNA-binding domain 
+PF10545.8	  Alcohol dehydrogenase transcription factor Myb/SANT-like
+PF00249.30	  Myb-like DNA-binding domain
+PF14223.5	  gag-polypeptide of LTR copia-type
+PF00373.17	  FERM domain
+PF00225.22	  Kinesin
+PF16796.4	  Microtubule binding
+PF00784.16	  MyTH4 domain
+PF09379.9	  FERM domain
+PF02362.20	  DNA-binding pseudobarrel domain
+PF09111.9	  SLIDE
+PF04110.12	  Ubiquitin-like autophagy protein Apg12
+PF14215.5	  bHLH-MYC and R2R3-MYB transcription factors N-terminal
+PF00010.25	  Basic helix-loop-helix
+PF00850.18	  Histone deacetylase 
+PF00069.24	  Protein kinase domain
+PF03283.12	  Pectinacetylesterase
+PF00226.30	  Chaperone DnaJ
+PF00515.27	  Tetratricopeptide 1
+PF14559.5	  Tetratricopeptide repeat1
+PF07719.16	  Tetratricopeptide repeat2 
+PF13424.5	  Tetratricopeptide repeat3
+PF13374.5	  Tetratricopeptide 2
+PF13181.5	  Tetratricopeptide 3
+PF13414.5	  TPR repeat 1
+PF13176.5	  Tetratricopeptide 4
+PF13428.5	  Tetratricopeptide repeat 4
+PF13432.5	  Tetratricopeptide repeat 5
+PF12894.6	  Anaphase-promoting complex subunit 4 WD40 domain
+PF00400.31	  WD40 repeat
+PF08662.10	  Eukaryotic translation initiation factor eIF2A
+PF01031.19	  Dynamin 1
+PF02212.17	  Dynamin GTPase effector domain
+PF08541.9	  3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+PF02797.14	  Chalcone and stilbene synthases, C-terminal domain
+PF08392.11	  FAE1/Type III polyketide synthase-like protein
+PF07522.13	  DNA repair metallo-beta-lactamase
+PF00536.29	  Sterile alpha motif 1
+PF07647.16	  Sterile alpha motif 2
+PF04406.13	  Type IIB DNA topoisomerase
+PF01657.16	  Salt stress response/antifungal 
+PF04729.12	  ASF1 like histone chaperone
+PF07714.16	  Tyrosine kinase
+PF14531.5	  Kinase-like
+PF05743.12	  UEV domain 
+PF09454.9	  Vps23 core domain
+PF12265.7	  Histone-binding protein RBBP4 or subunit C of CAF1 complex
+PF14648.5	  FAM91 C-terminus
+PF14647.5	  FAM91 N-terminus 
+PF02902.18	  Ulp1 protease family, C-terminal catalytic domain
+PF05970.13	  PIF1-like helicase
+PF01535.19	  Pentatricopeptide repeat 1
+PF12854.6	  PPR repeat 1
+PF13041.5	  PPR repeat family 1
+PF13812.5	  Pentatricopeptide repeat 2
+PF17177.3	  Pentacotripeptide-repeat region of PRORP
+PF12253.7	  Chromatin assembly factor 1 subunit A
+PF04398.11	  Protein of unknown function, DUF538
+PF00113.21	  Enolase1 
+PF03952.15	  Enolase2
+PF13378.5	  Enolase C-terminal domain-like
+PF08246.11	  Protease inhibitor (biology)
+PF03226.13	  Yippee zinc-binding/DNA-binding /Mis18, centromere assembly
+PF02826.18	  D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+PF04133.13	  Vacuolar protein sorting 55
+PF02893.19	  GRAM domain
+PF07899.10	  Frigida-like protein
+PF00632.24	  HECT domain
+PF00514.22	  Armadillo repeat	  
+PF03153.12	  Transcription factor IIA, alpha/beta subunit
+PF06886.10	  Targeting protein for Xklp2 (TPX2) 
+PF07517.13	  SecA DEAD-like domain
+PF01043.19	  SecA preprotein cross-linking domain
+PF07516.12	  SecA Wing and Scaffold domain
+PF00270.28	  DEAD/DEAH box helicase
+PF13177.5	  DNA polymerase III, delta subunit 
+PF12169.7	  DNA polymerase III subunits gamma and tau domain III
